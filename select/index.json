@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "FEVER DREAM",
+  "base_artist": "Alex Warren",
+  "createdAt": "2026-03-14T03:21:58.636362Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "fever dream",
+      "artist": "mxmtoon",
+      "has_synced": true,
+      "path": "select/01_fever_dream_mxmtoon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "Iron & Wine",
+      "has_synced": false,
+      "path": "select/02_Fever_Dream_Iron_&_Wine.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "W O L F C L U B feat. Dora Pereli",
+      "has_synced": true,
+      "path": "select/03_Fever_Dream_W_O_L_F_C_L_U_B_feat._Dora_Pereli.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "W O L F C L U B",
+      "has_synced": true,
+      "path": "select/04_Fever_Dream_W_O_L_F_C_L_U_B.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Fever Dream",
+      "artist": "Everything Everything",
+      "has_synced": true,
+      "path": "select/05_A_Fever_Dream_Everything_Everything.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "Iron & Wine",
+      "has_synced": true,
+      "path": "select/06_Fever_Dream_Iron_&_Wine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "The One AM Radio",
+      "has_synced": false,
+      "path": "select/07_Fever_Dream_The_One_AM_Radio.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "The Orion Experience",
+      "has_synced": false,
+      "path": "select/08_Fever_Dream_The_Orion_Experience.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "Movements",
+      "has_synced": true,
+      "path": "select/09_Fever_Dream_Movements.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "The Amity Affliction",
+      "has_synced": false,
+      "path": "select/10_Fever_Dream_The_Amity_Affliction.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "The Amity Affliction",
+      "has_synced": true,
+      "path": "select/11_Fever_Dream_The_Amity_Affliction.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "Frank Iero feat. The Future Violents",
+      "has_synced": true,
+      "path": "select/12_Fever_Dream_Frank_Iero_feat._The_Future_Violents.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "Frank Iero",
+      "has_synced": true,
+      "path": "select/13_Fever_Dream_Frank_Iero.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "Loggins & Messina",
+      "has_synced": true,
+      "path": "select/14_Fever_Dream_Loggins_&_Messina.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fever dream",
+      "artist": "Loggins and Messina",
+      "has_synced": true,
+      "path": "select/15_Fever_dream_Loggins_and_Messina.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fever Dream (Demo)",
+      "artist": "Iron & Wine",
+      "has_synced": true,
+      "path": "select/16_Fever_Dream_(Demo)_Iron_&_Wine.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "Biffy Clyro",
+      "has_synced": true,
+      "path": "select/17_Fever_Dream_Biffy_Clyro.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "Hurtwave",
+      "has_synced": true,
+      "path": "select/18_Fever_Dream_Hurtwave.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Friday Night Fever",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/19_Friday_Night_Fever_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Friday Night Fever (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/20_Friday_Night_Fever_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Fever",
+      "artist": "Ray Charles",
+      "has_synced": false,
+      "path": "select/21_The_Fever_Ray_Charles.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Hillbilly Fever",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": false,
+      "path": "select/22_Hillbilly_Fever_Little_Jimmy_Dickens.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Hillbilly Fever (Album Version)",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": false,
+      "path": "select/23_Hillbilly_Fever_(Album_Version)_Little_Jimmy_Dickens.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I Get The Fever",
+      "artist": "Bill Anderson",
+      "has_synced": true,
+      "path": "select/24_I_Get_The_Fever_Bill_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Ramblin' Fever",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/25_Ramblin'_Fever_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Summer Fever",
+      "artist": "Little Big Town",
+      "has_synced": true,
+      "path": "select/26_Summer_Fever_Little_Big_Town.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Teenage Fever",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/27_Teenage_Fever_Drake.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Fever (feat. Lukas Graham)",
+      "artist": "Kygo feat. Lukas Graham",
+      "has_synced": true,
+      "path": "select/28_Fever_(feat._Lukas_Graham)_Kygo_feat._Lukas_Graham.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Fever",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/29_Fever_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Fever",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/30_Fever_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Harpoon Fever (Queequeg's Playhouse)",
+      "artist": "Man Man",
+      "has_synced": false,
+      "path": "select/31_Harpoon_Fever_(Queequeg's_Playhouse)_Man_Man.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Fever",
+      "artist": "Neko Case",
+      "has_synced": false,
+      "path": "select/32_Fever_Neko_Case.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Fever Dreaming",
+      "artist": "No Age",
+      "has_synced": true,
+      "path": "select/33_Fever_Dreaming_No_Age.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "(I Got) the Fever",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/34_(I_Got)_the_Fever_Oasis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "has_synced": false,
+      "path": "select/pl_01_FEVER_DREAM_Alex_Warren.txt"
+    }
+  ]
+}
